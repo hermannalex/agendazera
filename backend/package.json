@@ -1,0 +1,6 @@
+{
+  "name": "agendazera-cobranca",
+  "private": true,
+  "description": "Servidor de assinatura (Mercado Pago) do app Agendazera",
+  "engines": { "node": ">=18" }
+}
